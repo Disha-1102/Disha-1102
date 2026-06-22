@@ -208,15 +208,19 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 # Certifications
 
 ### Oracle
-![](https://img.shields.io/badge/OCI_2025_Generative_AI_Professional-Oracle-red?style=for-the-badge)
-![](https://catalog-education.oracle.com/pls/certview/sharebadge?id=37ADCD5B333B5F9A63F3646A1176970DD05915843A54D11EA5C53B6B2D8BF14F)
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37ADCD5B333B5F9A63F3646A1176970DD05915843A54D11EA5C53B6B2D8BF14F">
+<img src="https://img.shields.io/badge/OCI_Generative_AI_Professional-Oracle-red?style=for-the-badge"/>
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADC66DE5EB8BC4A47E88ADEC0AF615C76E14B5F08B8829DD08B4AA0F7CAF322F">
+<img src="https://img.shields.io/badge/Autonomous_Database_Cloud-Oracle-red?style=for-the-badge"/>
+</a>
 
-![](https://img.shields.io/badge/Autonomous_Database_Cloud-Oracle-red?style=for-the-badge)
-![](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADC66DE5EB8BC4A47E88ADEC0AF615C76E14B5F08B8829DD08B4AA0F7CAF322F)
 
 ### Great Learning
-![](https://img.shields.io/badge/Python_Data_Structures-Great_Learning-blue?style=for-the-badge)
-![](https://www.mygreatlearning.com/certificate/TNQMSQXB)
+<a href="https://www.mygreatlearning.com/certificate/TNQMSQXB">
+<img src="https://img.shields.io/badge/Python_Data_Structures-Great_Learning-blue?style=for-the-badge)"/>
+</a>
+
 
 ### NoviTech
 
