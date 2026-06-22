@@ -260,15 +260,6 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Disha-1102&theme=tokyonight&column=4"/>
-
-</div>
 
 ---
 
@@ -280,15 +271,7 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 </div>
 
----
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Disha-1102/Disha-1102/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
