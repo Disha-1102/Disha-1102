@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5B21B6,50:7C3AED,100:2563EB&text=Disha%20Chaudhari&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:7C3AED,100:4F46E5&text=Disha%20Chaudhari&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%7C+Generative+AI+%7C+Full+Stack+Development;Building+Scalable+and+Impactful+Solutions;Always+Learning+%7C+Always+Innovating"/>
 
@@ -63,7 +63,7 @@ I enjoy designing scalable systems and transforming ideas into production-ready 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,streamlit,figma"/>
 </p>
 
 ### Backend & Databases
@@ -250,6 +250,8 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 # GitHub Analytics
 
+# GitHub Analytics
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Disha-1102&show_icons=true&theme=tokyonight"/>
@@ -261,6 +263,8 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 </div>
 
 ---
+
+# GitHub Trophies
 
 # GitHub Trophies
 
@@ -279,7 +283,6 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Disha-1102&theme=tokyo-night"/>
 
 </div>
-
 ---
 
 # Contribution Snake
@@ -344,6 +347,5 @@ Portfolio
 
 ### "Engineering intelligent systems that solve real-world problems."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:5B21B6,50:7C3AED,100:2563EB"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:7C3AED,100:4F46E5"/>
 </div>
