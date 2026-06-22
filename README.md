@@ -1,35 +1,30 @@
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:7C3AED,100:4F46E5&text=Disha%20Chaudhari&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:7C3AED,100:4F46E5&text=Disha%20Chaudhari&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%7C+Generative+AI+%7C+Full+Stack+Development;Building+Scalable+and+Impactful+Solutions;Always+Learning+%7C+Always+Innovating"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%7C+Generative+AI+%7C+Full+Stack+Development;Building+Scalable+and+Impactful+Solutions;Always+Learning+%7C+Always+Innovating"/>
 
 <br>
 
 ![](https://img.shields.io/badge/B.E.-AI_&_Data_Science-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-9.68-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/SPPU-Pune-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-9.68-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/SPPU-Pune-4338CA?style=for-the-badge)
 ![](https://img.shields.io/badge/Pune-India-2563EB?style=for-the-badge)
 
-<br>
-
-<a href="https://linkedin.com/in/disha-chaudhari-326699331">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
 <a href="mailto:dishachaudhari39@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/disha-chaudhari-326699331">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Disha-1102">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Disha-1102&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Disha-1102?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/Disha-1102?style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -37,18 +32,16 @@
 
 # About Me
 
-Artificial Intelligence and Data Science undergraduate with a strong foundation in **Software Engineering, Machine Learning, Full Stack Development, Data Analytics, and Generative AI**.
+Artificial Intelligence and Data Science undergraduate with a strong foundation in **Software Engineering, Machine Learning, Data Analytics, and Full Stack Development**.
 
-I enjoy designing scalable systems and transforming ideas into production-ready applications with a strong focus on performance, maintainability, and user experience.
+I enjoy building scalable applications and intelligent systems that bridge AI with real-world problems. Passionate about **Generative AI, LLMs, Computer Vision, and modern software engineering.**
 
 ### Open To
 
 - Software Engineering Internships
-- Machine Learning Engineering Roles
-- AI Research Projects
-- Full Stack Development Opportunities
-- Open Source Contributions
-- Generative AI and LLM Applications
+- AI / ML Opportunities
+- Open Source Collaboration
+- Full Stack Development Projects
 
 ---
 
@@ -69,10 +62,10 @@ I enjoy designing scalable systems and transforming ideas into production-ready 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,postgresql,firebase"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,firebase"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -83,12 +76,12 @@ I enjoy designing scalable systems and transforming ideas into production-ready 
 # AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|----------|------------|----------|
+|----------|-----------|----------|
 | Machine Learning | Advanced | Regression, Classification, Model Evaluation |
-| Generative AI | Intermediate | LLM Applications, Prompt Engineering |
-| Computer Vision | Intermediate | Object Tracking, Defect Detection, Video Analytics |
-| Data Analytics | Advanced | EDA, Feature Engineering, Visualization |
-| Full Stack AI Applications | Advanced | React + FastAPI + PostgreSQL |
+| Generative AI | Intermediate | Prompt Engineering, LLM Applications |
+| Computer Vision | Intermediate | Defect Detection, Video Analytics |
+| Data Analytics | Advanced | EDA, Feature Engineering |
+| Full Stack Development | Advanced | React + FastAPI + PostgreSQL |
 | APIs | Advanced | REST APIs, JWT Authentication |
 | Databases | Advanced | PostgreSQL, MongoDB, Firebase |
 
@@ -97,54 +90,52 @@ I enjoy designing scalable systems and transforming ideas into production-ready 
 # Featured Projects
 
 <details>
-<summary><b>AttendEase — Smart Attendance Management Platform</b></summary>
+<summary><b>📚 AttendEase - Smart Attendance Management System</b></summary>
 
 ### Description
 
-Built a full-stack attendance platform for educational institutions enabling automated attendance monitoring and defaulter analysis.
+A full-stack attendance platform for educational institutions with automated defaulter detection and analytics.
 
 | Attribute | Details |
 |------------|---------|
-| Stack | React, Firebase Authentication, Firestore |
-| Scale | Multi-user System |
-| Performance | Real-time monitoring |
+| Stack | React, Firebase, Firestore |
 | Security | Firebase Authentication |
-| Impact | Reduced manual workload |
-| Repository | Add Repository Link |
+| Performance | Real-Time Monitoring |
+| Impact | Reduced Manual Work |
+| Repository | Add Link |
 
 #### Highlights
 
-- Automated defaulter detection.
-- Leave management module.
-- Real-time attendance analytics.
-- Student performance reporting.
+- Real-time attendance tracking
+- Leave management system
+- Defaulter detection
+- Analytics dashboard
 
 </details>
 
 ---
 
 <details>
-<summary><b>Finance Management System</b></summary>
+<summary><b>💰 Smart Expense Tracker</b></summary>
 
 ### Description
 
-Designed and developed a Smart Expense Tracker with secure authentication and real-time analytics.
+Built a secure expense management platform with analytics and JWT authentication.
 
 | Attribute | Details |
 |------------|---------|
 | Stack | React, FastAPI, PostgreSQL |
-| Scale | Cloud Deployable |
-| Performance | Real-time Expense Analysis |
 | Security | JWT Authentication |
-| Impact | Better Budget Tracking |
-| Repository | Add Repository Link |
+| Performance | Real-Time Analytics |
+| Impact | Better Budget Management |
+| Repository | Add Link |
 
 #### Highlights
 
-- Secure REST APIs.
-- Expense categorization.
-- Dashboard analytics.
-- Cloud-ready architecture.
+- Expense categorization
+- Secure APIs
+- Dashboard analytics
+- Cloud-ready architecture
 
 </details>
 
@@ -156,16 +147,9 @@ Designed and developed a Smart Expense Tracker with secure authentication and re
 
 **June 2026 – July 2026**
 
-Worked on computer vision and deep learning applications for industrial and surveillance domains.
+Worked on Computer Vision and Deep Learning solutions for industrial defect detection and surveillance analytics.
 
-#### Scope of Work
-
-- Defect detection systems.
-- Object tracking models.
-- Video analytics solutions.
-- Model optimization and performance improvement.
-
-**Skills**
+**Technologies**
 
 `Python` `Computer Vision` `Deep Learning`
 
@@ -175,34 +159,11 @@ Worked on computer vision and deep learning applications for industrial and surv
 
 **January 2026 – February 2026**
 
-Performed data cleaning and exploratory analysis on real-world datasets.
+Performed data cleaning, exploratory data analysis and visualization on real-world datasets.
 
-#### Scope of Work
-
-- Data preprocessing.
-- EDA and visualization.
-- Trend analysis.
-- Business reporting.
-
-**Skills**
+**Technologies**
 
 `Python` `Pandas` `NumPy` `EDA`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Academic Excellence | CGPA 9.68 |
-| AI & DS Engineering | Savitribai Phule Pune University |
-| ML Internship | Pixonate Lab Pvt. Ltd. |
-| Data Analytics Experience | Papchem Lifesciences |
-| Full Stack Projects | React + FastAPI Applications |
-
-</div>
 
 ---
 
@@ -210,7 +171,7 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 ### Oracle
 
-![](https://img.shields.io/badge/OCI_2025_Generative_AI_Professional-Oracle-red?style=for-the-badge)
+![](https://img.shields.io/badge/OCI_Generative_AI_Professional-Oracle-red?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Autonomous_Database_Cloud-Oracle-red?style=for-the-badge)
 
@@ -222,55 +183,19 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 ![](https://img.shields.io/badge/Data_Analytics-NoviTech-purple?style=for-the-badge)
 
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-blue?style=for-the-badge)
-
 ---
-
-# Coding Profiles
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
----
-
-# GitHub Analytics
 
 # GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Disha-1102&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Disha-1102&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Disha-1102&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Disha-1102&theme=tokyonight&hide_border=true"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-1102&layout=compact&theme=tokyonight"/>
+<br>
 
-</div>
-
----
-
-# GitHub Trophies
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Disha-1102&theme=tokyonight&column=4"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-1102&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -283,15 +208,6 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Disha-1102&theme=tokyo-night"/>
 
 </div>
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Disha-1102/Disha-1102/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
@@ -302,50 +218,47 @@ Learning:
   - Generative AI
   - Large Language Models
   - System Design
-  - Deep Learning
 
 Building:
   - AI Applications
-  - Full Stack Platforms
-  - Intelligent Analytics Systems
+  - Full Stack Projects
 
 Exploring:
   - Computer Vision
-  - Agentic AI
   - RAG Systems
 
 Open To:
   - Software Engineering Internships
   - AI/ML Opportunities
-  - Open Source Collaboration
-```
+````
 
 ---
 
 # Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:dishachaudhari39@gmail.com">
-Email
-</a> •
-<a href="https://linkedin.com/in/disha-chaudhari-326699331">
-LinkedIn
-</a> •
-<a href="https://github.com/Disha-1102">
-GitHub
-</a> •
-<a href="#">
-Portfolio
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+<a href="https://linkedin.com/in/disha-chaudhari-326699331">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Disha-1102">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Engineering intelligent systems that solve real-world problems."
+### Engineering intelligent systems that create real-world impact.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:7C3AED,100:4F46E5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0D1117,50:7C3AED,100:4F46E5"/>
+
 </div>
+```
