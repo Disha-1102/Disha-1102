@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/disha-chaudhari-326699331">
+<a href="https://www.linkedin.com/in/dishachaudhari1102">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -291,7 +291,7 @@ Open To:
 <a href="mailto:dishachaudhari39@gmail.com">
 Email
 </a> •
-<a href="https://linkedin.com/in/disha-chaudhari-326699331">
+<a href="https://www.linkedin.com/in/dishachaudhari1102">
 LinkedIn
 </a> •
 <a href="https://github.com/Disha-1102">
