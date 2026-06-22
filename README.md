@@ -218,7 +218,7 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 ### Great Learning
 <a href="https://www.mygreatlearning.com/certificate/TNQMSQXB">
-<img src="https://img.shields.io/badge/Python_Data_Structures-Great_Learning-blue?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Python_Data_Structures-Great_Learning-blue?style=for-the-badge"/>
 </a>
 
 
