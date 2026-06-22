@@ -97,54 +97,53 @@ I enjoy designing scalable systems and transforming ideas into production-ready 
 # Featured Projects
 
 <details>
-<summary><b>AttendEase — Smart Attendance Management Platform</b></summary>
+<summary><b>DocuMind AI-An Intelligent Document Assistant</b></summary>
 
 ### Description
 
-Built a full-stack attendance platform for educational institutions enabling automated attendance monitoring and defaulter analysis.
+AI-powered PDF chatbot leveraging RAG, vector embeddings, and LLMs for intelligent document understanding and conversational question answering.
 
 | Attribute | Details |
 |------------|---------|
-| Stack | React, Firebase Authentication, Firestore |
-| Scale | Multi-user System |
-| Performance | Real-time monitoring |
-| Security | Firebase Authentication |
-| Impact | Reduced manual workload |
-| Repository | Add Repository Link |
+| Stack | Streamlit, LangChain, FAISS, HuggingFace, Gemini | 
+| Scale | Multi-document System | 
+| Performance | Semantic Search & Context-Aware QA | 
+| Security | Local Vector Storage | 
+| Impact | Improved document accessibility and knowledge extraction | 
+| Repository | https://github.com/Disha-1102/AI-PDF-Chatbot-DocuMind-AI- | 
 
-#### Highlights
-
-- Automated defaulter detection.
-- Leave management module.
-- Real-time attendance analytics.
-- Student performance reporting.
+#### Highlights 
+- Retrieval-Augmented Generation (RAG).
+- Semantic search over PDF documents.
+- Context-aware question answering.
+- Vector embeddings with FAISS.
+- Interactive Streamlit interface.
 
 </details>
 
 ---
 
 <details>
-<summary><b>Finance Management System</b></summary>
+<summary><b>AttendEase - Smart Attendance Management Platform</b></summary>
 
 ### Description
 
-Designed and developed a Smart Expense Tracker with secure authentication and real-time analytics.
+Built a secure full-stack attendance management system using React, Firebase Authentication, and Firestore that streamlines attendance tracking, automates defaulter detection, manages leave requests, and provides real-time analytical insights.
 
-| Attribute | Details |
-|------------|---------|
-| Stack | React, FastAPI, PostgreSQL |
-| Scale | Cloud Deployable |
-| Performance | Real-time Expense Analysis |
-| Security | JWT Authentication |
-| Impact | Better Budget Tracking |
-| Repository | Add Repository Link |
+| Attribute | Details | 
+|------------|---------| 
+| Stack | React, Firebase Authentication, Firestore | 
+| Scale | Multi-user System | | Performance | Real-time monitoring | 
+| Security | Firebase Authentication | 
+| Impact | Reduced manual workload and improved accuracy | 
+| Repository | Add Repository Link | 
 
-#### Highlights
-
-- Secure REST APIs.
-- Expense categorization.
-- Dashboard analytics.
-- Cloud-ready architecture.
+#### Highlights 
+- Automated defaulter detection.
+- Leave management module.
+- Real-time attendance analytics.
+- Student performance reporting.
+- Secure cloud-based architecture.
 
 </details>
 
@@ -230,38 +229,18 @@ Performed data cleaning and exploratory analysis on real-world datasets.
 
 # Coding Profiles
 
-<a href="#">
+<a href="https://leetcode.com/u/Disha_1102/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Disha-1102&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Disha-1102&theme=tokyonight"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-1102&layout=compact&theme=tokyonight"/>
-
-</div>
 
 
 ---
+
+
+
+
+
 
 # Contribution Activity
 
